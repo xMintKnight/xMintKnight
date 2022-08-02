@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @xMintKnight
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MintKnight
+- 👀 I’m interested in money & game
+- 🌱 I’m currently learning high school
+- 💞️ I'm currently a contributor on: notsmilerobux.com; pensub.online
+- 📫 How to reach me: discord MintKnight#0019; facebook trunganh.2704
+- 💰 How to pay for me: momo 0898652120; paypal aphan9678@gmail.com
 
 <!---
 xMintKnight/xMintKnight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
